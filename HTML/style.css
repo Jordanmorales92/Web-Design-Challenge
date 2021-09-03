@@ -28,6 +28,15 @@ img{
     height:auto !important;
 }
 
+/* Visualizations */
+
+.visualization{
+    float: left;
+    padding: 15px;
+    max-width: 100% !important;
+    height: auto !important;
+}
+
 /* Paragraphs */
 p {
     margin: 30px;
@@ -37,6 +46,12 @@ p {
 
 }
 
+
+/* Table */
+.table{
+    font-size: 18px; 
+    background-color:rgb(252,252,255) !important;
+}
 /* Title */
 
 title {
